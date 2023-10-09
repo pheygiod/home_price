@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+home_price_test_data.csv
+home_price_train_data.csv
+submission.csv
